@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola, me llamo Jordi 👋
+<br>
+Actualmente soy un estudiante de 3D y animación en CEV Barcelona.
+<br>
+<br>
+Mi intención es llegar a participar en la creación de videojuegos :D
 
 <!--
 **JordiBorras2A/JordiBorras2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
