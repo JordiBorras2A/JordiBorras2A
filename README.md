@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi</h1>
-<h3 align="center">I am a student in CEV, I'm doing 3D modeling and animation wich I really like. I also used Zbrush to make some 3D character models.</h3>
+<h3 align="center">I'm a student in CEV, doing 3D modeling and animation wich I really like. I also used Zbrush to make some 3D character models.</h3>
 
 - 🔭 I’m currently working on **my final class animation project.**
 
