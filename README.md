@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Animation and 3D modeling**
 
-- 📫 How to reach me **My personal mail is jbmares@gmail.com and my student mail is jordi_borras_b-ts3dv1ma2223@cev.com and student mail is jordi_borras_b-ts3dv1ma2223@cev.com**
-
+- 📫 How to reach me **My personal mail is jbmares@gmail.com and my student mail is jordi_borras_b-ts3dv1ma2223@cev.com.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
