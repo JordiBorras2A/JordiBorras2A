@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi</h1>
-<h3 align="center">A 3D artist and videogame maker student.</h3>
+<h3 align="center">I am a student in CEV, I'm doing 3D modeling and animation wich I really like. I also used Zbrush to make some 3D character models.</h3>
 
 - 🔭 I’m currently working on **my final class animation project.**
 
@@ -10,6 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+<a href="https://www.artstation.com/jorix982"><img src="https://img.shields.io/badge/Artstation-CCCCCC?style=for-the-badge&logo=artstation&logoColor=white&labelColor=13AFF0"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
